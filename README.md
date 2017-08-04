@@ -1,2 +1,3 @@
-# cuwip-nyc.github.io
-CUWiP - NYC 2018
+# CUWiP-NYC Site
+
+This is the website for the upcoming CUWiP conference.
