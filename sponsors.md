@@ -6,4 +6,4 @@ navigation_weight: 1
 order: 7
 ---
 
-These is how to get here
+These fantastic groups made this whole possible.
