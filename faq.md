@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: faq
 title: FAQ
 permalink: /faq/
 navigation_weight: 1

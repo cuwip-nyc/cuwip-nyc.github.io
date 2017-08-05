@@ -7333,3 +7333,16 @@ body {
 .content {
   padding: 40px 15px;
 }
+
+.shadowImg {
+  box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
+}
+
+.faq h4 {
+  color: #302b78;
+  font-weight: 600;
+}
+
+.faq h4:before {
+  content: "Q: ";
+}

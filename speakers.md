@@ -6,4 +6,4 @@ navigation_weight: 1
 order: 5
 ---
 
-These are the speakers
+We're still putting together our speaker list, so stay stuned.
