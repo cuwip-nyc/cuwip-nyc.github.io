@@ -2839,6 +2839,8 @@ caption {
 
 th {
   text-align: left;
+  color: #000;
+  font-variant: small-caps;
 }
 
 .table {
