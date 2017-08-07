@@ -6,10 +6,18 @@ navigation_weight: 1
 order: 1
 ---
 
-This is a conference.
 
+# About the APS-CUWiP Conferences.
 
-## CUWiP Conference Sites for 2018
+If you are:
+
+- Interested in meeting other women in physics?
+- Looking for new experiences, advice, and ideas?
+- Excited to learn about graduate school and professions in physics?
+
+Then join us for APS CUWiP January 12-14, 2018!
+
+### CUWiP Conference Sites for 2018
 
 - Arizona State University, Tempe, AZ
 - Cal Poly Pomona/Pomona College/Harvey Mudd College, Claremont, CA
@@ -23,3 +31,7 @@ This is a conference.
 - University of Virginia, Charlottesville, VA
 
 Students in Canada are encouraged to apply to the Canadian CUWiP at Queens University, Kingston, Ontario
+
+Here is a map of all the 2018 CUWiP conferences.
+
+  <a href="{{site.baseurl}}/images/CUWiP2018_Map_Final.png"><img class="img-responsive thumbnail col-md-4" src="{{site.baseurl}}/images/CUWiP2018_Map_Final.png" /></a>

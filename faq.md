@@ -11,7 +11,7 @@ The APS Conferences for Undergraduate Women in Physics (CUWiP) are three-day reg
 
 The primary goal of the CUWiP conference is to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas.
 
-The 2018 program at XX University will include research talks, panel discussions about graduate school and careers in physics, workshops and discussions about women in physics, student research talks and poster session, and laboratory tours.
+The 2018 program at Columbia University/Barnard College/City College of New York will include research talks, panel discussions about graduate school and careers in physics, workshops and discussions about women in physics, student research talks and poster session, and laboratory tours.
 
 #### Who is invited to attend CUWiP?
 
