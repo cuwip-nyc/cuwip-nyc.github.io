@@ -10,7 +10,7 @@ order: 6
 
 Getting to New York City is rather straightforward. It is a major transportation hub. Travel by rail is probably the easiest for most attendees. Everything is connected via the subway, and you won't have to worry about parking, which can be completely awful in January if there is some snow piled up.
 
-The conference will take place in Upper Manhattan on each campus, all of which are on the 2 line.
+The conference will take place in Upper Manhattan on each campus, all of which are on the 1 line. Detailed maps will come soon.
 
 ## By Train
 
