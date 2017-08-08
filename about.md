@@ -17,7 +17,7 @@ If you are:
 
 Then join us for APS CUWiP January 12-14, 2018!
 
-### CUWiP Conference Sites for 2018
+## CUWiP Conference Sites for 2018
 
 - Arizona State University, Tempe, AZ
 - Cal Poly Pomona/Pomona College/Harvey Mudd College, Claremont, CA
