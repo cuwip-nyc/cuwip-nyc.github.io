@@ -7,3 +7,6 @@ order: 7
 ---
 
 We're putting together our Social Media sites right now. Stay tuned for links to get in touch with the organizers.
+
+In the meantime contact us at cuwipnyc@gmail.com for further questions or any
+isues with our website. Thank you.  

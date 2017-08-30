@@ -6,6 +6,16 @@ navigation_weight: 1
 order: 6
 ---
 
+# Travel Funds
+
+Please note that there is a one time registration fee of $45 if accepted. This
+fee is to offset the overall cost of the conference. You
+will be notified of by email in early November. In cases of need, a fee waiver
+is available at the CUWiP Application Site. Food and Accomodation are
+provided by the host sites. Please ask your
+department for funding regarding your transport. If such funding is not
+available then travel transport is available from the site. 
+
 # Getting here
 
 Getting to New York City is rather straightforward. It is a major transportation hub. Travel by rail is probably the easiest for most attendees. Everything is connected via the subway, and you won't have to worry about parking, which can be completely awful in January if there is some snow piled up.
