@@ -179,7 +179,7 @@ Please check back periodicially. We will update this soon.
 
 #### I have anxiety, depression, etc, and I am worried about attending this conference. What should I do?
 
-Please contact us if you are comfortable so we are aware< contact info >. We will encourage you to try your best during the networking opportunities, but if you need to be paired up with someone you know (either in rooming or meals), please let us know so we can try to accommodate you. We hope that you will be able to comfortably attend the conference and get something from it, but we understand that everyone needs to go at their own pace.
+Please contact us at cuwipnyc@gmail.com if you are comfortable so we are aware. We will encourage you to try your best during the networking opportunities, but if you need to be paired up with someone you know (either in rooming or meals), please let us know so we can try to accommodate you. We hope that you will be able to comfortably attend the conference and get something from it, but we understand that everyone needs to go at their own pace.
 
 #### What if I need child care?
 
