@@ -6,7 +6,9 @@ navigation_weight: 1
 order: 7
 ---
 
-We're putting together our Social Media sites right now. Stay tuned for links to get in touch with the organizers.
+Find us on [Facebook](https://www.facebook.com/pg/cuwipnyc),
+[Twitter](https://www.instagram.com/cuwip_nyc/) and
+[Instagram](https://www.instagram.com/cuwip_nyc/). 
 
-In the meantime contact us at cuwipnyc@gmail.com for further questions or any
-isues with our website. Thank you.  
+Contact us at cuwipnyc@gmail.com for further questions or issues with our
+website. Thank you!  

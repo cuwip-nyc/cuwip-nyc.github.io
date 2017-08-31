@@ -184,7 +184,7 @@ Please check back periodically. We will update this soon.
 #### Can I connect with those going to the conference before arriving ?
 
  Yes!  We have set up a [Facebook page](https://www.facebook.com/pg/cuwipnyc).
-Also find us on [Twitter](https://www.instagram.com/cuwip_nyc/) and [Instagram](https://www.instagram.com/cuwip_nyc/) as well!
+ Also find us on [Twitter](https://www.instagram.com/cuwip_nyc/) and [Instagram](https://www.instagram.com/cuwip_nyc/) as well!
 
 #### I have anxiety, depression, etc, and I am worried about attending this conference. What should I do?
 
