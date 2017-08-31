@@ -9,7 +9,8 @@ This is the website for the upcoming CUWiP conference.
 - Add locations for hotel on google map 
 - Add Facebook, Twitter, and Instagram logos on front page
 - Fix/Adjust map width for mobile applications (possible?) 
-- Make headings the title of the captions for each page 
+- Make headings the title of the captions for each page
+- Add Hotel Newton and Hotel Aloft  
 
 ### About 
 - Add social media logs
