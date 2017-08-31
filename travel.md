@@ -9,10 +9,10 @@ order: 6
 # Travel Funds
 
 Please note that there is a one time registration fee of $45 if accepted. This
-fee is to offset the overall cost of the conference. You
-will be notified of by email in early November. In cases of need, a fee waiver
-is available at the CUWiP Application Site. Food and Accomodation are
-provided by the host sites. We expect students to receive funding for transport from their
+fee is to offset the some of the cost of the conference including lodging and
+meals. In cases of need, a fee waiver
+is available. Please contact us at cuwipnyc@gmail.com for more information. Food
+and Accommodation are provided by the host sites. We expect students to receive funding for transport from their
 respective departments. If you are unsure who to ask in your deparment, then be
 sure to reach out to an academic advisor, faculty member you know, or other
 contacts for guidance on the process. Limited travel funds are available for
