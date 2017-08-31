@@ -104,7 +104,7 @@ Yes, undergraduate students at any U.S. college or university may apply.
 
 #### I'm a high school student/grad student/postdoc/faculty member.  Am I eligible to apply to CUWiP?
 
-Only undergraduate students who will be over 18 at the time of the conference may apply to CUWiP.  < Site should insert what other interested attendees should do, since it's up to sites to decide how to handle non-undergrads.  Usually it's best to accommodate mentors who are traveling with students, but there is no obligation to accommodate others. >
+Only undergraduate students who will be over 18 at the time of the conference may apply to CUWiP.
 
 #### I am transgender/gender-fluid/genderqueer/non-binary etc, can I attend this conference?
 
@@ -135,7 +135,7 @@ reservations. Food and Accommodations will be provided by the host sites.  < Des
 
 #### How can I get to and from the airport?
 
-Please see our travel page for more information on travel. 
+Please see our travel page for more information on travel.
 We will help you with travel between airports and Columbia University/Barnard
 College/City College of New York, by organizing shuttles, or pointing you to
 commercial services. If you plan to fly, please contact us at cuwipnyc@gmail.com before making your reservation.
@@ -161,7 +161,7 @@ There will be a plated banquet on Saturday evening as seen on our
 [Schedule]({{site.baseurl}}/schedule/) page, and many students enjoy dressing up
 for this event.  You may wish to look at photos of previous conferences to see
 what students typically wear. Comfortable walking shoes and winter attire are most
-appropriate for this event as there will be travel between sites in January. 
+appropriate for this event as there will be travel between sites in January.
 
 #### Will there be resources available for attendees with disabilities?
 
@@ -171,7 +171,7 @@ Please contact us in advance at cuwipnyc@gmail.com if you have unusual requireme
 
 #### What are the guidelines for posters and talks?
 
-Please check back periodicially. We will update this soon. 
+Please check back periodically. We will update this soon.
 
 #### Can I connect with those going to the conference before arriving ?
 
