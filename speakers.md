@@ -6,5 +6,7 @@ navigation_weight: 1
 order: 5
 ---
 
-We're still putting together our plenary, workshop, and panel speaker list. Stay tuned.
+# Speakers 
+
+We are still putting together our plenary, workshop, and panel speaker list. Stay tuned.
 

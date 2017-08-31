@@ -41,7 +41,7 @@ order: 3
 <tr><td>1:00-2:00</td><td>Travel To CCNY</td><td></td><td></td></tr>
 <tr><td>2:00-3:15</td><td>Keynote Speaker</td><td>CCNY</td><td></td></tr>
 <tr><td>3:15-3:30</td><td>Group Photo</td><td>CCNY</td><td></td></tr>
-<tr><td>3:30-4:30</td><td>Lab/Facility Visits</td><td>CCNY</td><td></td></tr>
+<tr><td>3:30-4:30</td><td>Lab/Facility Visits/Coffee Break</td><td>CCNY</td><td></td></tr>
 <tr><td>4:30-6:00</td><td>Panel Session</td><td>CCNY</td><td></td></tr>
 <tr><td>6:00-6:30</td><td>Networking with Mocktails</td><td>CCNY</td><td></td></tr>
 <tr><td>6:30-8:00</td><td>Dinner</td><td>CCNY</td><td></td></tr>
@@ -58,7 +58,7 @@ order: 3
 </thead>
 <tr><td>8:30-9:00</td><td>Breakfast</td><td>Columbia</td><td></td></tr>
 <tr><td>9:00-9:45</td><td>Plenary 2</td><td>Columbia</td><td></td></tr>
-<tr><td>9:45-10:30</td><td>Parallel Student Talks</td><td>Barnard</td><td></td></tr>
+<tr><td>9:45-10:30</td><td>Parallel Student Talks</td><td>Columbia</td><td></td></tr>
 <tr><td>10:30-12:00</td><td>Graduate and Career Fair/Coffee Break</td><td>Columbia</td><td></td></tr>
 <tr><td>12:00-12:30</td><td>Closing Remarks/Award Ceremony</td><td>Columbia</td><td></td></tr>
 <tr><td>12:30-1:30</td><td>Lunch</td><td>Columbia</td><td></td></tr>
