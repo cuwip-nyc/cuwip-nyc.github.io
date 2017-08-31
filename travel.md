@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Travel
+title: Travel & Accommodation 
 permalink: /travel/
 navigation_weight: 1
 order: 6
