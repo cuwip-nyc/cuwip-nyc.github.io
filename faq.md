@@ -13,6 +13,7 @@ The primary goal of the CUWiP conference is to help undergraduate women continue
 
 The 2018 program at Columbia University/Barnard College/City College of New York will include research talks, panel discussions about graduate school and careers in physics, workshops and discussions about women in physics, student research talks and poster session, and laboratory tours.
 
+
 #### Who is invited to attend CUWiP?
 
 For the last decade, Conferences for Undergraduate Women in Physics (CUWiP) has
@@ -24,6 +25,9 @@ and share invaluable experiences, advice, and ideas with other women.
 Undergraduate students are eligible to apply and register for the conference,
 and we encourage non-undergraduate students or interested faculty/mentors to
 email cuwipnyc@gmail.com for details about attendance and participation.
+
+
+
 
 ### APPLICATION AND REGISTRATION
 
@@ -54,6 +58,9 @@ No, but you should have an estimate of the cost. If you are traveling by air and
 #### What will increase my chances of being accepted to the conference?
 
 First, make sure you submit your application by the deadline. Second, make sure you put some thought into why you want to attend and what you want to get out of the conference. Please answer all questions on the application fully and honestly. Offering to present a talk or a poster will not affect your chances of being selected to attend.
+
+
+
 
 ### COST AND FUNDING
 
@@ -131,7 +138,8 @@ College of New York. Please visit our [Travel &
 Accommodation]({{site.baseurl}}/travel/) page for more information. If you are
 driving to the conference, you can find parking information on our [Travel &
 Accommodation]({{site.baseurl}}/travel/) page. Do not make your own hotel
-reservations. Food and Accommodations will be provided by the host sites.  < Describe details of rooming and roommate policy >
+reservations. Food and Accommodations will be provided by the host sites.
+Students will be assigned double rooms.
 
 #### How can I get to and from the airport?
 
