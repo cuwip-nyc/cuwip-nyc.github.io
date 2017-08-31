@@ -29,7 +29,7 @@ of their physics careers. At CUWiP, budding physicists will experience a
 professional conference, learn about graduate school and professions in physics,
 and share invaluable experiences, advice, and ideas with other women. Only undergraduate students who will be over 18 at the time of the conference may apply to CUWiP.
 
-### APPLICATION AND REGISTRATION
+## Application and Registration 
 
 #### Who can attend?  Do I need to be a physics major to apply?
 
@@ -37,15 +37,17 @@ Any undergraduate student attending a US college/university may apply.
 
 It is very important to complete all parts of the application and to write a thoughtful Applicant Statement. If conferences are oversubscribed, priority will be given to applicants who:
 
-- Are undergraduate physics or engineering physics majors
+- Are undergraduate physics and/or related majors
 - Have never attended an APS CUWiP
 - Are applying to attend the conference that is geographically closest to their expected location January 12-14, 2018.
 
-There is no formal application or registration process for non-undergraduate students and interested faculty/mentors. We encourage you to email cuwipnyc@gmail.com for details about attendance and participation.
 
 #### Are "application" and "registration" the same thing?
 
-No. You apply to attend a CUWiP conference (the one closest to you), and you are accepted, wait-listed or declined according to the priorities listed above. Application is free, and the deadline is Friday, October 13, 2017 at midnight ET. After you have been accepted, you then register with the conference to which you have been accepted (you may be assigned to a different conference depending on the number of applications) to confirm that you will actually be attending.
+No. You apply to attend a CUWiP conference (the one closest to you), and you are
+accepted, wait-listed or declined according to the priorities listed above.
+Application is free, and the deadline is **Friday, October 13, 2017 at 11:59 PM
+EDT**. If you are accepted, you then register with the conference to which you have been accepted (you may be assigned to a different conference depending on the number of applications) to confirm that you will actually be attending.
 
 #### How do I know which site to apply to?
 
@@ -62,24 +64,27 @@ First, make sure you submit your application by the deadline. Second, make sure 
 
 
 
-### COST AND FUNDING
+## Cost and Funding
 
 #### How much does the conference cost?
 
 Students who are accepted to attend the conference must pay a one-time registration fee of $45, which helps offset some of the cost of the conference, including all lodging and meals.  If you cannot afford the registration fee and your department/college is unable to help, you may request a fee waiver by submitting a statement attesting to your financial need and verifying that department or university funds are not available.  Further details will be provided when you are invited to register for the conference. You must request a fee waiver at least two days in advance of registering.
 
-Lodging (for non-local students) and food will be covered by the conference; you
+Lodging and food will be covered by the conference; you
 do not need to pay for your hotel room or food at the conference.  We expect
 that your travel expenses will be covered by your home department or college.
 However, if they are not able to cover these expenses, travel funding is
 available by emailing cuwipnyc@gmail.com with your full name, department, and
-a brief email detailing your situation. < sites should specify where to find details about travel funding >.
+a brief email detailing your situation.  
 
 #### How do I know the amount my department will contribute to my travel funding?
 
-Please talk to your department chair, manager, or director of undergraduate studies before registering for CUWiP. You might ask an academic advisor, faculty member you know, or other mentor for guidance about who to ask if you are unsure.  You can also contact us if you would like guidance in asking your department for travel funds.
+Please talk to your department chair, manager, or director of undergraduate
+studies before registering for CUWiP. You might ask an academic advisor, faculty
+member you know, or other mentor for guidance about who to ask if you are
+unsure.  You can also contact us at cuwipnyc@gmail.com if you would like guidance in asking your department for travel funds.
 
-### ELIGIBILITY
+## Eligibility
 
 #### Do I need to have research to present in order to attend the conference?
 
@@ -93,7 +98,7 @@ The content of this year’s conference will not be exactly the same as last yea
 
 Yes, all attendees must register by the deadline.
 
-#### Can I attend the Columbia/Barnard/CCNY CUWiP even though it is not my closest location? For example, I am considering  University for grad school and would like to visit the school?
+#### Can I attend the Columbia/Barnard/CCNY CUWiP even though it is not my closest location? For example, I am considering one of these institutions for grad school and would like to visit the school?
 
 Because of the high demand of students and travel costs of those who are not in our region, we will only be able to accept students who will be in the region at the time of the conference. This conference is not intended to be a graduate school visit.
 
@@ -117,7 +122,7 @@ Only undergraduate students who will be over 18 at the time of the conference ma
 
 Yes, students of all genders are welcome to attend this conference. If you have questions or concerns about the housing for this conference, please contact us at cuwipnyc@gmail.com.
 
-### TRAVEL AND HOTEL
+## Travel and Hotel 
 
 #### How do I arrange travel?
 
@@ -129,44 +134,44 @@ your travel, please send an email to cuwipnyc@gmail.com for plane and train tick
 
 #### Can I come late? Can I leave early? Can I skip things that I’m not interested in?
 
-Because your travel costs are reimbursable, it is expected that you will attend all of the conference events as scheduled. If you have special circumstances, please contact us to discuss them.
+Because your travel costs are reimbursable, it is expected that you will attend
+all of the conference events as scheduled. If you have special circumstances,
+please contact us at cuwipnyc@gmail.com to discuss them.
 
 #### Where do I stay during the conference?
 
-Students will be accommodated at Columbia University/Barnard College/City
-College of New York. Please visit our [Travel &
+Students will be accommodated in hotels near the conference venues. Please visit our [Travel &
 Accommodation]({{site.baseurl}}/travel/) page for more information. If you are
 driving to the conference, you can find parking information on our [Travel &
 Accommodation]({{site.baseurl}}/travel/) page. Do not make your own hotel
-reservations. Food and Accommodations will be provided by the host sites.
-Students will be assigned double rooms.
+reservations. Food and Accommodations will be provided by the host sites.  
 
 #### How can I get to and from the airport?
 
-Please see our travel page for more information on travel.
-We will help you with travel between airports and Columbia University/Barnard
+We expect that most attendees will travel by train, bus, or car. Please see our travel page for more information on travel. If you plan to fly, please contact us at cuwipnyc@gmail.com before making your reservation. We will help you with travel between airports and Columbia University/Barnard
 College/City College of New York, by organizing shuttles, or pointing you to
-commercial services. If you plan to fly, please contact us at cuwipnyc@gmail.com before making your reservation.
+commercial services. 
 
 #### When will I get reimbursed for travel?
 
 If you are being reimbursed by the conference (rather than by your department):
-after the conference, you can submit the reimbursement form that will be
-provided to you. Reimbursement will be mailed to you within the month. For more
+after the conference, you must submit the reimbursement form that will be
+provided to you. For more
 details please contact us at cuwipnyc@gmail.com with your full name and
 department.  
 
-### MISCELLANEOUS
+## Miscellaneous 
 
 #### What if I have dietary restrictions?
 
-We will request dietary restriction information on the registration form. If you believe your dietary needs are unusual, please contact us and we will work to accommodate you.
+We will request dietary restriction information on the registration form. If you
+believe your dietary needs are unusual, please contact us at cuwipnyc@gmail.com and we will work to accommodate you.
 
 #### What should I wear to the conference?
 
 The conference has no dress code, and we encourage students to be comfortable.
-There will be a plated banquet on Saturday evening as seen on our
-[Schedule]({{site.baseurl}}/schedule/) page, and many students enjoy dressing up
+There will be a conference dinner on Saturday evening as seen on our
+[Schedule]({{site.baseurl}}/schedule/) page and many students enjoy dressing up
 for this event.  You may wish to look at photos of previous conferences to see
 what students typically wear. Comfortable walking shoes and winter attire are most
 appropriate for this event as there will be travel between sites in January.
@@ -183,13 +188,13 @@ Please check back periodically. We will update this soon.
 
 #### Can I connect with those going to the conference before arriving ?
 
- Yes!  We have set up a [Facebook page](https://www.facebook.com/pg/cuwipnyc).
+ Yes!  We have set up a [Facebook](https://www.facebook.com/pg/cuwipnyc) page.
  Also find us on [Twitter](https://www.instagram.com/cuwip_nyc/) and [Instagram](https://www.instagram.com/cuwip_nyc/) as well!
 
 #### I have anxiety, depression, etc, and I am worried about attending this conference. What should I do?
 
-Please contact us at cuwipnyc@gmail.com if you are comfortable so we are aware. We will encourage you to try your best during the networking opportunities, but if you need to be paired up with someone you know (either in rooming or meals), please let us know so we can try to accommodate you. We hope that you will be able to comfortably attend the conference and get something from it, but we understand that everyone needs to go at their own pace.
+Please contact us at cuwipnyc@gmail.com if you are comfortable doing so. We will encourage you to try your best during the networking opportunities, but if you need to be paired up with someone you know (either in rooming or meals), please let us know so we can try to accommodate you. We hope that you will be able to comfortably attend the conference and get something from it, but we understand that everyone needs to go at their own pace.
 
 #### What if I need child care?
 
-Please contact us to discuss your needs.
+Please contact us at cuwipnyc@gmail.com to discuss your needs.
