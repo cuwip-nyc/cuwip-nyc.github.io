@@ -6,7 +6,9 @@ navigation_weight: 1
 order: 6
 ---
 
-# Travel Funds
+# Travel and Accommodation 
+
+## Travel Funds
 
 Please note that there is a one time registration fee of $45 if accepted. This
 fee is to offset the some of the cost of the conference including lodging and
@@ -18,7 +20,7 @@ sure to reach out to an academic advisor, faculty member you know, or other
 contacts for guidance on the process. Limited travel funds are available for
 students who are unable to receive travel funds from their department.
 
-# Getting here
+## Getting here
 
 Getting to New York City is rather straightforward. It is a major transportation hub. Travel by rail is probably the easiest for most attendees. Everything is connected via the subway, and you won't have to worry about parking, which can be completely awful in January if there is some snow piled up.
 

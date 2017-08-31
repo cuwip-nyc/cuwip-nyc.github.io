@@ -5,9 +5,15 @@ permalink: /faq/
 navigation_weight: 1
 order: 2
 ---
+
+# FAQ
+
+
+
 ## What is CUWiP?
 
-The APS Conferences for Undergraduate Women in Physics (CUWiP) are three-day regional conferences for undergraduate physics majors. The 2018 conferences will be held January 12-14.  
+The APS Conferences for Undergraduate Women in Physics (CUWiP) are three-day
+regional conferences for undergraduate physics and related majors. The 2018 conferences will be held January 12-14.  
 
 The primary goal of the CUWiP conference is to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas.
 
@@ -21,13 +27,7 @@ helped undergraduate women thrive in physics by providing them a with a unique
 opportunity to engage with and learn from other women in physics at all stages
 of their physics careers. At CUWiP, budding physicists will experience a
 professional conference, learn about graduate school and professions in physics,
-and share invaluable experiences, advice, and ideas with other women.
-Undergraduate students are eligible to apply and register for the conference,
-and we encourage non-undergraduate students or interested faculty/mentors to
-email cuwipnyc@gmail.com for details about attendance and participation.
-
-
-
+and share invaluable experiences, advice, and ideas with other women. Only undergraduate students who will be over 18 at the time of the conference may apply to CUWiP.
 
 ### APPLICATION AND REGISTRATION
 

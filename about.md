@@ -7,11 +7,12 @@ order: 1
 ---
 
 
-# About the APS CUWiP Conferences.
+# About 
 
 ## What is CUWiP?
 
-The APS Conferences for Undergraduate Women in Physics (CUWiP) are three-day regional conferences for undergraduate physics majors. The 2018 conferences will be held January 12-14.  
+The APS Conferences for Undergraduate Women in Physics (CUWiP) are three-day
+regional conferences for undergraduate physics and related majors. The 2018 conferences will be held January 12-14.  
 
 The primary goal of the CUWiP conference is to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas.
 
