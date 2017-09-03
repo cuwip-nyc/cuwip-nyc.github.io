@@ -25,7 +25,8 @@ src="https://www.google.com/maps/d/u/3/embed?mid=11DrGl4F4IbB1DyUFeoMpwShT-88"
  width="640" height="480"></iframe>
 
 ## Accommodation 
-Stay tuned for more information regarding accommodation. 
+You will stay at either the [Hotel Newton](http://www.thehotelnewton.com/) or
+[Aloft Harlem](http://www.aloftharlem.com).
 
 ## Getting here
 
@@ -89,5 +90,7 @@ There are a number of affordable, convenient bus lines that travel to New York C
 Use Google Maps for driving directions to New York City. Also, make sure you know where to park: you may want to use an app like SpotHero to find and compare parking spots and locations.
 
 ## By Air
-
-There are 3 major aiports that serve the NY area: JFK, Laguardia, and Newark. Laguardia is the closest to Upper Manhattan.
+We expect that most attendees will travel by train, bus or car.  If you are
+traveling by air and your travel cost is not covered by your department, your
+airfare must be approved by the conference organizers before you book your
+travel. 

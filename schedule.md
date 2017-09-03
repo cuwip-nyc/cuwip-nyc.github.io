@@ -39,9 +39,9 @@ order: 3
 <tr><td>11:00-12:00</td><td>Parallel Workshops 2</td><td>Barnard</td><td></td></tr>
 <tr><td>12:00-1:00</td><td>Lunch</td><td>Barnard</td><td></td></tr>
 <tr><td>1:00-2:00</td><td>Travel To CCNY</td><td></td><td></td></tr>
-<tr><td>2:00-3:15</td><td>Keynote Speaker</td><td>CCNY</td><td></td></tr>
-<tr><td>3:15-3:30</td><td>Group Photo</td><td>CCNY</td><td></td></tr>
-<tr><td>3:30-4:30</td><td>Lab/Facility Visits/Coffee Break</td><td>CCNY</td><td></td></tr>
+<tr><td>2:00-3:30</td><td>Keynote Speaker</td><td>CCNY</td><td></td></tr>
+<tr><td>3:30-3:45</td><td>Group Photo</td><td>CCNY</td><td></td></tr>
+<tr><td>3:45-4:30</td><td>Lab/Facility Visits/Coffee Break</td><td>CCNY</td><td></td></tr>
 <tr><td>4:30-6:00</td><td>Panel Session</td><td>CCNY</td><td></td></tr>
 <tr><td>6:00-6:30</td><td>Networking with Mocktails</td><td>CCNY</td><td></td></tr>
 <tr><td>6:30-8:00</td><td>Dinner</td><td>CCNY</td><td></td></tr>

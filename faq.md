@@ -27,7 +27,10 @@ helped undergraduate women thrive in physics by providing them a with a unique
 opportunity to engage with and learn from other women in physics at all stages
 of their physics careers. At CUWiP, budding physicists will experience a
 professional conference, learn about graduate school and professions in physics,
-and share invaluable experiences, advice, and ideas with other women. Only undergraduate students who will be over 18 at the time of the conference may apply to CUWiP.
+and share invaluable experiences, advice, and ideas with other women. Only
+undergraduate students who will be over 18 at the time of the conference may
+apply to CUWiP. Faculty/mentors who are interested in attending the conference
+should contact cuwipnyc@gmail.com to discuss possible participation.
 
 ## Application and Registration 
 
@@ -37,25 +40,26 @@ Any undergraduate student attending a US college/university may apply.
 
 It is very important to complete all parts of the application and to write a thoughtful Applicant Statement. If conferences are oversubscribed, priority will be given to applicants who:
 
-- Are undergraduate physics and/or related majors
+- Are undergraduate physics and related majors
 - Have never attended an APS CUWiP
 - Are applying to attend the conference that is geographically closest to their expected location January 12-14, 2018.
 
 
-#### Are "application" and "registration" the same thing?
+#### Are ""application"" and "registration" the same thing?
 
-No. You apply to attend a CUWiP conference (the one closest to you), and you are
+No. You **apply** to attend a CUWiP conference (the one closest to you), and you are
 accepted, wait-listed or declined according to the priorities listed above.
 Application is free, and the deadline is **Friday, October 13, 2017 at 11:59 PM
-EDT**. If you are accepted, you then register with the conference to which you have been accepted (you may be assigned to a different conference depending on the number of applications) to confirm that you will actually be attending.
+EDT**. If you are accepted, you then **register** with the conference to which you have been accepted (you may be assigned to a different conference depending on the number of applications) to confirm that you will actually be attending.
 
 #### How do I know which site to apply to?
 
-Please see the APS CUWiP map. If you do not apply to the site that you will be geographically closest to at the time of the conference, your application may be denied.
+Please see the [APS CUWiP map]({{site.baseurl}}/images/CUWiP2018_Map_Final.png). If you do not apply to the site that you will be geographically closest to at the time of the conference, your application may be denied.
 
 #### Do I need to book my travel before registering?
 
-No, but you should have an estimate of the cost. If you are traveling by air and your travel cost is not covered by your department, your airfare must be approved by the conference organizers before you book your travel. Due to the limited nature of our travel funds, we ask that you find the most economical means of transportation to and from the conference. For example, reach out to others in your department and see if carpooling is an option.
+No, but you should have an estimate of the cost. We expect that most attendees
+will travel by train, bus, or car. If you are traveling by air and your travel cost is not covered by your department, your airfare must be approved by the conference organizers before you book your travel. Due to the limited nature of our travel funds, we ask that you find the most economical means of transportation to and from the conference. For example, reach out to others in your department and see if carpooling is an option.
 
 #### What will increase my chances of being accepted to the conference?
 
@@ -144,7 +148,7 @@ Students will be accommodated in hotels near the conference venues. Please visit
 Accommodation]({{site.baseurl}}/travel/) page for more information. If you are
 driving to the conference, you can find parking information on our [Travel &
 Accommodation]({{site.baseurl}}/travel/) page. Do not make your own hotel
-reservations. Food and Accommodations will be provided by the host sites.  
+reservations. 
 
 #### How can I get to and from the airport?
 

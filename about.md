@@ -29,19 +29,17 @@ Then join us for APS CUWiP January 12-14, 2018!
 
 ## CUWiP Conference Sites for 2018
 
-- [Arizona State University, Tempe,
-  AZ](https://dev-asucuwip2018.ws.asu.edu/content/home)
-- [Cal Poly Pomona/Pomona College/Harvey Mudd College, Claremont,
-  CA](https://cuwipsocal2018.org/)
-- [George Washington University, Washington,D.C.](https://physics.columbian.gwu.edu/aps-cuwip-gw)
-- [Iowa State University, Ames, IA](http://cuwip.physics.iastate.edu) 
-- [Rochester Institute of Technology, Rochester,
-  NY](https://sites.google.com/view/cuwip-rit/)
-- [University of Kansas, Lawrence, KS](http://apscuwip.ku.edu)
-- [University of North Florida, Jacksonville,FL](https://cuwipnorthflorida.wordpress.com/) 
-- [University of Oregon, Eugene, OR](https://sites.google.com/view/uocuwip2018)
-- [University of Toledo, Toledo, OH](http://www.utoledo.edu/nsm/physast/cuwip/)
-- [University of Virginia, Charlottesville, VA](http://cuwip.phys.virginia.edu)
+#### [Arizona State University, Tempe, AZ](https://dev-asucuwip2018.ws.asu.edu/content/home)
+
+#### [Cal Poly Pomona/Pomona College/Harvey Mudd College, Claremont, CA](https://cuwipsocal2018.org/)
+#### [George Washington University, Washington,D.C.](https://physics.columbian.gwu.edu/aps-cuwip-gw)
+#### [Iowa State University, Ames, IA](http://cuwip.physics.iastate.edu) 
+#### [Rochester Institute of Technology, Rochester, NY](https://sites.google.com/view/cuwip-rit/)
+#### [University of Kansas, Lawrence, KS](http://apscuwip.ku.edu)
+#### [University of North Florida, Jacksonville,FL](https://cuwipnorthflorida.wordpress.com/) 
+#### [University of Oregon, Eugene, OR](https://sites.google.com/view/uocuwip2018)
+#### [University of Toledo, Toledo, OH](http://www.utoledo.edu/nsm/physast/cuwip/)
+#### [University of Virginia, Charlottesville, VA](http://cuwip.phys.virginia.edu)
 
 Students in Canada are encouraged to apply to the Canadian CUWiP at [Queens
 University, Kingston, Ontario.](https://ccuwip.ca/)
