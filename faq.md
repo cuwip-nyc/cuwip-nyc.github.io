@@ -45,7 +45,7 @@ It is very important to complete all parts of the application and to write a tho
 - Are applying to attend the conference that is geographically closest to their expected location January 12-14, 2018.
 
 
-#### Are ""application"" and "registration" the same thing?
+#### Are "application" and "registration" the same thing?
 
 No. You **apply** to attend a CUWiP conference (the one closest to you), and you are
 accepted, wait-listed or declined according to the priorities listed above.
