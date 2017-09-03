@@ -7,7 +7,7 @@ order: 3
 ---
 
 ## Tentative Schedule
-
+All times are for Eastern Standard Time (EST). 
 
 <h3>Friday January 12</h3>
 <div class="table-responsive">
