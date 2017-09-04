@@ -40,9 +40,9 @@ All times are for Eastern Standard Time (EST).
 <tr><td>12:00-1:00</td><td>Lunch</td><td>Barnard</td><td></td></tr>
 <tr><td>1:00-2:00</td><td>Travel To CCNY</td><td></td><td></td></tr>
 <tr><td>2:00-3:30</td><td>Keynote Speaker</td><td>CCNY</td><td></td></tr>
-<tr><td>3:30-3:45</td><td>Group Photo</td><td>CCNY</td><td></td></tr>
-<tr><td>3:45-4:30</td><td>Lab/Facility Visits/Coffee Break</td><td>CCNY</td><td></td></tr>
-<tr><td>4:30-6:00</td><td>Panel Session</td><td>CCNY</td><td></td></tr>
+<tr><td>3:30-4:00</td><td>Group Photo</td><td>CCNY</td><td></td></tr>
+<tr><td>4:00-5:00</td><td>Lab/Facility Visits/Coffee Break</td><td>CCNY</td><td></td></tr>
+<tr><td>5:00-6:00</td><td>Panel Session</td><td>CCNY</td><td></td></tr>
 <tr><td>6:00-6:30</td><td>Networking with Mocktails</td><td>CCNY</td><td></td></tr>
 <tr><td>6:30-8:00</td><td>Dinner</td><td>CCNY</td><td></td></tr>
 <tr><td>8:00-10:00</td><td>Social Activity</td><td>CCNY</td><td></td></tr>
