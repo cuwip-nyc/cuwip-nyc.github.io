@@ -7,7 +7,7 @@ order: 3
 ---
 
 ## Tentative Schedule
-All times are for Eastern Standard Time (EST). 
+All times are for Eastern Standard Time (EST).
 
 <h3>Friday January 12</h3>
 <div class="table-responsive">
@@ -33,9 +33,9 @@ All times are for Eastern Standard Time (EST).
 <thead>
 <tr><th>Time</th><th>Event</th><th>Location</th><th>Notes</th></tr>
 </thead>
-<tr><td>8:30-9:00</td><td>Breakfast</td><td>Barnard</td><td></td></tr>
-<tr><td>9:00-10:00</td><td>Parallel Workshops 1</td><td>Barnard</td><td></td></tr>
-<tr><td>10:00-11:00</td><td>Poster Session/Coffee Break</td><td>Barnard</td><td></td></tr>
+<tr><td>8:00-8:30</td><td>Breakfast</td><td>Barnard</td><td></td></tr>
+<tr><td>8:30-9:30</td><td>Parallel Workshops 1</td><td>Barnard</td><td></td></tr>
+<tr><td>9:30-11:00</td><td>Networking/Grad School Fair + Coffee</td><td>Barnard</td><td></td></tr>
 <tr><td>11:00-12:00</td><td>Parallel Workshops 2</td><td>Barnard</td><td></td></tr>
 <tr><td>12:00-1:00</td><td>Lunch</td><td>Barnard</td><td></td></tr>
 <tr><td>1:00-2:00</td><td>Travel To CCNY</td><td></td><td></td></tr>
@@ -58,8 +58,8 @@ All times are for Eastern Standard Time (EST).
 </thead>
 <tr><td>8:30-9:00</td><td>Breakfast</td><td>Columbia</td><td></td></tr>
 <tr><td>9:00-9:45</td><td>Plenary 2</td><td>Columbia</td><td></td></tr>
-<tr><td>9:45-10:30</td><td>Parallel Student Talks</td><td>Columbia</td><td></td></tr>
-<tr><td>10:30-12:00</td><td>Graduate and Career Fair/Coffee Break</td><td>Columbia</td><td></td></tr>
+<tr><td>9:45-11:00</td><td>Poster Fair + Coffee</td><td>Columbia</td><td></td></tr>
+<tr><td>11:00-12:00</td><td>Parallel Student Talks</td><td>Columbia</td><td></td></tr>
 <tr><td>12:00-12:30</td><td>Closing Remarks/Award Ceremony</td><td>Columbia</td><td></td></tr>
 <tr><td>12:30-1:30</td><td>Lunch</td><td>Columbia</td><td></td></tr>
 </table>
