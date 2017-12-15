@@ -7373,3 +7373,11 @@ body {
   -moz-transition-duration: 0.5s;
   -o-transition-duration: 0.5s;
 }
+
+.aSpeaker img {
+  margin-right: 20px;
+}
+
+.aSpeaker {
+  margin-bottom: 2em;
+}
