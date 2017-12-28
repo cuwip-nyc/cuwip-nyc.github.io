@@ -7381,3 +7381,12 @@ body {
 .aSpeaker {
   margin-bottom: 2em;
 }
+
+.anchor {
+  padding-top: 60px;
+}
+
+a.anchor {
+  color: #000;
+  text-decoration: none;
+}
