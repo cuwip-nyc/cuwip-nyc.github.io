@@ -114,7 +114,165 @@ Broadway.
 right.
     - [Harlem Tavern to Aloft](https://goo.gl/maps/4E3iVSobizL2) 
 
+In general there are a lot of cabs, UBERs, Lyfts, etc. in NYC so that is always
+an option if needed. If you are taking a cab from the airport only use yellow
+cabs or apps like uber or lyft. Do not get into random cars or cabs.
 
+
+### Getting to the hotels from airports and trains:
+
+All of the airports, train stations and bus stations are accessible with public
+transportation. Instructions will be given below. There are many ways to get
+from each airport to the hotels but the cheapest and easiest ways are described.
+
+#### To/from JFK airport and Aloft:
+
+* SUBWAY (~1.5 hours): Take the Airtrain JFK Green line (Howard Beach Train) from
+your terminal and get off at Howard Beach Station. You will need to purchase a
+metrocard with Airtrain access ($7.50). Then get on the A train towards Inwood.
+Get off at 125th St.
+    - [JFK to Aloft](www.google.com) 
+* Reverse: Take the A train from the 125th Street Station towards Far Rockaway.
+Get off at Howard Beach - JFK Airport. Get on the Airtrain JFK Green line
+(Howard Beach Train) and get off at your terminal.
+    - [Aloft to JFK](www.google.com) 
+
+#### To/from JFK airport and Hotel Newton:
+
+* SUBWAY (~1.5 hours): Take the Airtrain JFK Red line (Jamaica Station Train) from
+your terminal and get off at Jamaica Station. You will need to purchase a
+metrocard with Airtrain access ($7.50). Then get on the E train towards World
+Trade Center. Get off at Time Square 42nd St and transfer to the uptown 1, 2, or
+3 train. Get off at 96th Street.
+    - [JFK to Hotel Newton](www.google.com) 
+* Reverse: Take the downtown 1, 2, or 3 train from the 96th Street Station. Get
+off at Time Square 42nd St and transfer to the E train towards Jamaica Center
+and get off at Jamaica Station. Get on the Airtrain JFK Red line (Jamaica
+Station Train) and get off at your terminal.
+    - [Hotel Newton to JFK](www.google.com) 
+
+If you need to go straight to Columbia, follow the directions to get to Hotel
+Newton but make sure you are in the 1 train from 42nd Street (or transfer to the
+1 train from the 2 or 3 train at 96th St) and then get off at 116th St -
+Columbia University. To go straight from Columbia to JFK get on the downtown 1
+train and follow the reverse directions above.
+
+#### To/from Laguardia airport and Aloft:
+
+* BUS (~45 min): Take the M60 SBS bus from your terminal. You need to buy a
+metrocard inside and then use your metrocard to get a ticket for the M60 at the
+kiosk at the bus stop outside the terminal at ground transportation. Get off at
+125th St and Frederick Douglass Boulevard.
+    - [Laguardia to Aloft](www.google.com) 
+* Reverse: Take the M60 SBS bus from the 125th St and St. Nicholas Ave station.
+Get off at your terminal at Laguardia.
+    - [Aloft to Laguardia](www.google.com)  
+
+#### To/from Laguardia airport and Hotel Newton:
+
+* BUS (~1 hour): Take the M60 SBS bus from your terminal. You need to buy a
+metrocard inside and then use your metrocard to get a ticket for the M60 at the
+kiosk at the bus stop outside the terminal at ground transportation. Get off at
+125th St and Malcolm X Boulevard. Take the downtown 2 or 3 subway train from
+125th Street Station. Get off at 96th Street Station.
+    - [Laguardia to Hotel Newton](www.google.com) 
+* Reverse: Take the uptown 2 or 3 subway train from 96th Street Station to 125th
+Street Station. Take the M60 SBS bus from 125th St and Malcolm X Boulevard. Get
+off at your terminal.
+    - [Hotel Newton to Laguardia](www.google.com) 
+
+If you need to go straight to Columbia, take the M60 SBS to the 116th and
+Broadway stop. If you need to go straight to Laguardia from Columbia get on the
+M60 SBS at 116th and Broadway.
+
+
+#### To/from Newark airport to Aloft:
+
+* BUS/SUBWAY (~1 hr 15 min): Take the Newark Airport Express bus from your
+terminal. You can buy a ticket on the bus ($16). Get off at Port Authority Bus
+Terminal (1st stop). You will be at 41st and 8th Avenue so walk to the A train
+at 42nd St and 8th Avenue. Take the A train toward Inwood and get off at 125th
+St.
+    - [Newark to Aloft](www.google.com) 
+* Reverse: Take the A train at 125th St towards Far Rockaway. Get off at 42 St
+Time Square and walk to the Newark Airport Express bus at Port Authority bus
+terminal on 41st and 8th Avenue. You can buy a ticket on the bus ($16). Get off
+at your terminal.
+    - [Aloft to Newark](www.google.com) 
+
+#### To/from Newark airport to Hotel Newton:
+
+* BUS/SUBWAY (~1 hr 15 min): Take the Newark Airport Express bus from your
+terminal. You can buy a ticket on the bus ($16). Get off at Port Authority Bus
+Terminal (1st stop). You will be at 41st and 8th Avenue so walk to the uptown 1,
+2, or 3 train at 42nd St and 8th Avenue. Get off at 96th St.
+    - [Newark to Hotel Newton](www.google.com) 
+* Reverse: Take the downtown 1, 2, or 3 train at 96th St. Get off at 42 St Time
+Square and walk to the Newark Airport Express bus at Port Authority bus terminal
+on 41st and 8th Avenue. You can buy a ticket on the bus ($16). Get off at your
+terminal.
+    - [Hotel Newton to Newark](www.google.com) 
+
+If you are going straight to Columbia, take the uptown 1 train after the Newark
+Airport Express bus and get off at 116th St. If you are going from Columbia to
+Newark take the downtown 1 train and get off at 42nd St Time Square and walk to
+the Newark Airport Express bus stop.
+
+
+#### To/from Penn Station to Aloft:
+
+* SUBWAY (~20 min): Follow the signs in Penn Station to get to the A subway
+station. Take the A train towards Inwood and get off at 125th Street.
+    - [Penn Station to Aloft](www.google.com)  
+* Reverse: Take the A train at 125th Street Station towards Far Rockaway. Get off
+at 34th Street Penn Station and follow the signs for Penn Station.
+    - [Aloft to Penn Station](www.google.com) 
+
+#### To/from Penn Station to Hotel Newton:
+
+* SUBWAY (~15 min): Follow the signs in Penn Station to get to the 1, 2, or 3
+subway station. Take the uptown 1, 2, or 3 subway and get off at 96th Street.
+    - [Penn Station to Hotel Newton](www.google.com) 
+* Reverse: Take the downtown 1, 2, or 3 subway from 96th and Broadway and get off
+at 34th Street Penn Station. Follow the signs for Penn Station.
+    - [Hotel Newton to Penn Station](www.google.com)
+
+If you need to go straight to/from Penn Station to Columbia use the 116th and
+Broadway 1 subway station and the 34th Street Penn Station stop.
+
+
+#### To/from Grand Central and Aloft:
+
+* SUBWAY (~25 min): Take the 7 train from Grand Central to Time Square 42nd St.
+Get on the A train going to Inwood and get off at 125th Street Station.
+    - [Grand Central to Aloft](www.google.com) 
+* Reverse: Take the A train from 125th Street Station towards Far Rockaway. Get
+off at Time Square 42nd Street and transfer to the 7 train. Get off at Grand
+Central.
+    - [Aloft to Grand Central](www.google.com) 
+
+#### To/from Grand Central and Hotel Newton:
+
+* SUBWAY (~20 min): Take the 7 train from Grand Central to Time Square 42nd St.
+Get on the uptown 1, 2, or 3 train. Get off at 96th St.
+    - [Grand Central to Hotel Newton](www.google.com) 
+* Reverse: Take the downtown 1, 2, or 3 train from 96th St to Time Square 42nd St.
+Transfer to the 7 train towards Flushing and get off at Grand Central.
+    - [Hotel Newton to Grand Central](www.google.com)  
+
+If you need to go straight to Columbia, follow the directions to get to Hotel
+Newton but make sure you are in the 1 train from 42nd Street (or transfer to the
+1 train from the 2 or 3 train at 96th St) and then get off at 116th St -
+Columbia University. To go straight from Columbia to Grand Central get on the
+downtown 1 train and follow the reverse directions above.
+
+## Bus Stations
+Most of the bus stops are located in Midtown West which are near many subway
+stations (see subway map). If going to Hotel Newton look for the uptown 1, 2, or
+3 subway station and get off at 96 St. If going to Aloft look for the uptown A,
+C, or D subway station and get off at 125th St. If going to Columbia look for
+the uptown 1 subway station and get off at 116th St Columbia University.
+ 
 ## Accommodation 
 You will stay at either the [Hotel Newton](http://www.thehotelnewton.com/) or
 [Aloft Harlem](http://www.aloftharlem.com).
