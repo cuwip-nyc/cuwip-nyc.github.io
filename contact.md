@@ -15,6 +15,8 @@ Find us on [Facebook](https://www.facebook.com/pg/cuwipnyc),
 Contact us at cuwipnyc@gmail.com for further questions or issues with our
 website. Thank you!  
 
+Emergency Number: (646) 926-4230 
+
 ---
 
 ## The Local Organizing Committee
