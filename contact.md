@@ -37,6 +37,8 @@ Abigail Murphy (CCNY)
 
 Xiuhong Cai (CCNY)
 
+Daniella Barragan (CCNY)
+
 Kathryn Johnston (Columbia, Astronomy)
 
 David Helfand (Columbia, Astronomy)
