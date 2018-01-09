@@ -7,7 +7,7 @@ order: 1
 ---
 
 
-# About 
+# About
 
 ## What is CUWiP?
 
@@ -33,10 +33,10 @@ Then join us for APS CUWiP January 12-14, 2018!
 
 #### [Cal Poly Pomona/Pomona College/Harvey Mudd College, Claremont, CA](https://cuwipsocal2018.org/)
 #### [George Washington University, Washington,D.C.](https://physics.columbian.gwu.edu/aps-cuwip-gw)
-#### [Iowa State University, Ames, IA](http://cuwip.physics.iastate.edu) 
+#### [Iowa State University, Ames, IA](http://cuwip.physics.iastate.edu)
 #### [Rochester Institute of Technology, Rochester, NY](https://sites.google.com/view/cuwip-rit/)
 #### [University of Kansas, Lawrence, KS](http://apscuwip.ku.edu)
-#### [University of North Florida, Jacksonville,FL](https://cuwipnorthflorida.wordpress.com/) 
+#### [University of North Florida, Jacksonville,FL](https://cuwipnorthflorida.wordpress.com/)
 #### [University of Oregon, Eugene, OR](https://sites.google.com/view/uocuwip2018)
 #### [University of Toledo, Toledo, OH](http://www.utoledo.edu/nsm/physast/cuwip/)
 #### [University of Virginia, Charlottesville, VA](http://cuwip.phys.virginia.edu)
@@ -46,4 +46,18 @@ University, Kingston, Ontario.](https://ccuwip.ca/)
 
 Here is a map of all the 2018 CUWiP conferences.
 
-  <a href="{{site.baseurl}}/images/CUWiP2018_Map_Final.png"><img class="img-responsive thumbnail col-md-4" src="{{site.baseurl}}/images/CUWiP2018_Map_Final.png" /></a>
+<a href="{{site.baseurl}}/images/CUWiP2018_Map_Final.png"><img class="img-responsive thumbnail col-md-4"  src="{{site.baseurl}}/images/CUWiP2018_Map_Final.png" /></a>
+
+<hr style="clear:both"/>
+
+
+
+
+
+#### Code of Conduct for APS Meetings
+
+It is the policy of the American Physical Society (APS) that all participants, including atendees, vendors, APS staff, volunteers, and all other stakeholders at APS meetings will conduct themselves in a professional manner that is welcoming to all participants and free from any form of discrimination, harassment, or retaliation. Participants will treat each other with respect and consideration to create a collegial, inclusive, and professional environment at APS Meetings. Creating a supportive environment to enable scientific discourse at APS meetings is the responsibility of all participants.
+
+Participants will avoid any inappropriate actions or statements based on individual characteristics such as age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, educational background, or any other characteristic protected by law. Disruptive or harassing behavior of any kind will not be tolerated. Harassment includes but is not limited to inappropriate or intimidating behavior and language, unwelcome jokes or comments, unwanted touching or attention, offensive images, photography without permission, and stalking.
+
+Violations of this code of conduct policy should be reported to meeting organizers, APS staff, or the APS Director of Meetings. Sanctions may range from verbal warning, to ejection from the meeting without refund, to notifying appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated. If a participant observes inappropriate comments or actions and personal intervention seems appropriate and safe, they should be considerate of all parties before intervening.
