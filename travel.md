@@ -8,6 +8,7 @@ order: 6
 
 # Travel and Accommodation
 
+
 ## Travel Funds
 
 Please note that there is a one time registration fee of $45 if accepted. This
@@ -15,7 +16,7 @@ fee is to offset the some of the cost of the conference including lodging and
 meals. In cases of need, a fee waiver
 is available. Please contact us at cuwipnyc@gmail.com for more information.
 Accommodation and food are provided by the host sites. We expect students to receive funding for transport from their
-respective departments. If you are unsure who to ask in your deparment, then be
+respective departments. If you are unsure who to ask in your department, then be
 sure to reach out to an academic advisor, faculty member you know, or other
 contacts for guidance on the process. Limited travel funds are available for
 students who are unable to receive travel funds from their department.
@@ -61,7 +62,16 @@ On Sunday morning there will be walking groups from both hotels to Columbia.
 Please plan accordingly about your luggage. All conference activities will be at
 Columbia on Sunday.
 
+----
+
 ## Directions for Around the Conference
+
+### Maps
+
+Pdf Maps are [here]({{site.baseurl}}/resources/#maps)
+
+-----
+
 #### To/from Columbia/Barnard and Hotel Newton (1.3 miles)
 * WALK (~25 min): Turn right out of the hotel and walk up Broadway until you reach
 116th street then take a right into Columbia campus or a left into Barnard
@@ -118,6 +128,7 @@ In general there are a lot of cabs, UBERs, Lyfts, etc. in NYC so that is always
 an option if needed. If you are taking a cab from the airport only use yellow
 cabs or apps like uber or lyft. Do not get into random cars or cabs.
 
+----
 
 ### Getting to the hotels from airports and trains:
 
@@ -265,6 +276,8 @@ Newton but make sure you are in the 1 train from 42nd Street (or transfer to the
 1 train from the 2 or 3 train at 96th St) and then get off at 116th St -
 Columbia University. To go straight from Columbia to Grand Central get on the
 downtown 1 train and follow the reverse directions above.
+
+----
 
 ## Bus Stations
 Most of the bus stops are located in Midtown West which are near many subway
